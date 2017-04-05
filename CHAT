@@ -1,0 +1,162 @@
+<aiml version="2.0">
+
+<category><pattern>HOLA</pattern><template>Hola! Bienvenido a TravelWalls. ¿En qué puedo ayudarte?</template></category>
+
+
+        
+<category><pattern>QUIERO VIAJAR</pattern><template>Genial, ¿A dondé quieres viajar?</template></category>
+
+
+        
+            <category><pattern>A AGUASCALIENTES</pattern><template>Bonito Lugar,  ¿Qué medio de transporte usarás?</template></category>
+            <category> <pattern>A BAJA CALIFORNIA</pattern><template>Bonito Lugar,  ¿Qué medio de transporte usarás?</template></category>
+            <category><pattern>A BAJA CALIFORNIA SUR</pattern><template>Bonito Lugar,  ¿Qué medio de transporte usarás?</template></category>
+            <category><pattern>A CAMPECHE</pattern><template>Bonito Lugar,  ¿Qué medio de transporte usarás?</template></category>
+            <category><pattern>A CHIAPAS</pattern><template>Bonito Lugar,  ¿Qué medio de transporte usarás?</template></category>
+            <category><pattern>A CHIHUAHUA</pattern><template>Bonito Lugar,  ¿Qué medio de transporte usarás?</template></category>
+            <category><pattern>A CIUDAD DE MEXICO</pattern><template>Bonito Lugar,  ¿Qué medio de transporte usarás?</template></category>
+            <category><pattern>A COAHUILA</pattern><template>Bonito Lugar,  ¿Qué medio de transporte usarás?</template></category>
+            <category><pattern>A COLIMA</pattern><template>Bonito Lugar,  ¿Qué medio de transporte usarás?</template></category>
+            <category><pattern>A DURANGO</pattern><template>Bonito Lugar,  ¿Qué medio de transporte usarás?</template></category>
+            <category><pattern>A ESTADO DE MEXICO</pattern><template>Bonito Lugar,  ¿Qué medio de transporte usarás?</template></category>
+            <category><pattern>A GUANAJUATO</pattern><template>Bonito Lugar,  ¿Qué medio de transporte usarás?</template></category>
+            <category><pattern>A GUERRERO</pattern><template>Bonito Lugar,  ¿Qué medio de transporte usarás?</template></category>
+            <category><pattern>A HIDALGO</pattern><template>Bonito Lugar,  ¿Qué medio de transporte usarás?</template></category>
+            <category><pattern>A JALISCO</pattern><template>Bonito Lugar,  ¿Qué medio de transporte usarás?</template></category>
+            <category><pattern>A MICHOACAN</pattern><template>Bonito Lugar,  ¿Qué medio de transporte usarás?</template></category>
+            <category><pattern>A MORELOS</pattern><template>Bonito Lugar,  ¿Qué medio de transporte usarás?</template></category>
+            <category><pattern>A NAYARIT</pattern><template>Bonito Lugar,  ¿Qué medio de transporte usarás?</template></category>
+            <category><pattern>A NUEVO LEON</pattern><template>Bonito Lugar,  ¿Qué medio de transporte usarás?</template></category>
+            <category><pattern>A OAXACA</pattern><template>Bonito Lugar,  ¿Qué medio de transporte usarás?</template></category>
+            <category><pattern>A PUEBLA</pattern><template>Bonito Lugar,  ¿Qué medio de transporte usarás?</template></category>
+            <category><pattern>A QUERETARO</pattern><template>Bonito Lugar,  ¿Qué medio de transporte usarás?</template></category>
+            <category><pattern>A QUINTANA ROO</pattern><template>Bonito Lugar,  ¿Qué medio de transporte usarás?</template></category>
+            <category><pattern>A SAN LUIS POTOSI</pattern><template>Bonito Lugar,  ¿Qué medio de transporte usarás?</template></category>
+            <category><pattern>A SINALOA</pattern><template>Bonito Lugar,  ¿Qué medio de transporte usarás?</template></category>
+            <category><pattern>A SONORA</pattern><template>Bonito Lugar,  ¿Qué medio de transporte usarás?</template></category>
+            <category><pattern>A TABASCO</pattern><template>Bonito Lugar,  ¿Qué medio de transporte usarás?</template></category>
+            <category><pattern>A TAMAULIPAS</pattern><template>Bonito Lugar,  ¿Qué medio de transporte usarás?</template></category>
+            <category><pattern>A TLAXCALA</pattern><template>Bonito Lugar,  ¿Qué medio de transporte usarás?</template></category>
+            <category><pattern>A VERACRUZ</pattern><template>Bonito Lugar,  ¿Qué medio de transporte usarás?</template></category>
+            <category><pattern>A ZACATECAS</pattern><template>Bonito Lugar,  ¿Qué medio de transporte usarás?</template></category>
+        
+<category><pattern>EN NADA</pattern><template>Ok )=, Que tengas un buen día!</template></category>
+
+
+        
+<category><pattern>NINGUNO</pattern><template>BUENO, ¿TE PUEDO RECOMENDAR ALGUNO?</template></category>
+
+
+        
+<category><pattern>NO</pattern><template>Esta bien, sigamos. Vuelve a preguntar</template></category>
+
+
+        
+<category><pattern>AUTOBUS</pattern><template>Genial, Buena Elección ¿En qué hotel te hospedarás?</template></category>
+<category><pattern>AUTOMOVIL</pattern><template>Genial, Buena Elección ¿En qué hotel te hospedarás?</template></category>
+<category><pattern>AVION</pattern><template>Genial, Buena Elección ¿En qué hotel te hospedarás?</template></category>
+<category><pattern>BARCO</pattern><template>Genial, Buena Elección ¿En qué hotel te hospedarás?</template></category>
+<category><pattern>BICICLETA</pattern><template>Genial, Buena Elección ¿En qué hotel te hospedarás?</template></category>
+<category><pattern>BOTE</pattern><template>Genial, Buena Elección ¿En qué hotel te hospedarás?</template></category>
+<category><pattern>CABALLO</pattern><template>Genial, Buena Elección ¿En qué hotel te hospedarás?</template></category>
+<category><pattern>CAMION</pattern><template>Genial, Buena Elección ¿En qué hotel te hospedarás?</template></category>
+<category><pattern>CAMIONETA</pattern><template>Genial, Buena Elección ¿En qué hotel te hospedarás?</template></category>
+<category><pattern>COLECTIVO</pattern><template>Genial, Buena Elección ¿En qué hotel te hospedarás?</template></category>
+<category><pattern>COMBI</pattern><template>Genial, Buena Elección ¿En qué hotel te hospedarás?</template></category>
+<category><pattern>CUATRIMOTO</pattern><template>Genial, Buena Elección ¿En qué hotel te hospedarás?</template></category>
+<category><pattern>FERROCARRIL</pattern><template>Genial, Buena Elección ¿En qué hotel te hospedarás?</template></category>
+<category><pattern>GLOBO AEROSTÁTICO</pattern><template>Genial, Buena Elección ¿En qué hotel te hospedarás?</template></category>
+<category><pattern>LANCHA</pattern><template>Genial, Buena Elección ¿En qué hotel te hospedarás?</template></category>
+<category><pattern>METRO</pattern><template>Genial, Buena Elección ¿En qué hotel te hospedarás?</template></category>
+<category><pattern>METROBUS</pattern><template>Genial, Buena Elección ¿En qué hotel te hospedarás?</template></category>
+<category><pattern>MICROBUS</pattern><template>Genial, Buena Elección ¿En qué hotel te hospedarás?</template></category>
+<category><pattern>MOTOCICLETA</pattern><template>Genial, Buena Elección ¿En qué hotel te hospedarás?</template></category>
+<category><pattern>NAVIO</pattern><template>Genial, Buena Elección ¿En qué hotel te hospedarás?</template></category>
+<category><pattern>OMNIBUS</pattern><template>Genial, Buena Elección ¿En qué hotel te hospedarás?</template></category>
+<category><pattern>TAXI</pattern><template>Genial, Buena Elección ¿En qué hotel te hospedarás?</template></category>
+<category><pattern>TAXIBUS</pattern><template>Genial, Buena Elección ¿En qué hotel te hospedarás?</template></category>
+<category><pattern>TREN</pattern><template>Genial, Buena Elección ¿En qué hotel te hospedarás?</template></category>
+<category><pattern>TROLEBUS</pattern><template>Genial, Buena Elección ¿En qué hotel te hospedarás?</template></category>
+<category><pattern>TURIBUS</pattern><template>Genial, Buena Elección ¿En qué hotel te hospedarás?</template></category>
+<category><pattern>UBER</pattern><template>Genial, Buena Elección ¿En qué hotel te hospedarás?</template></category>
+<category><pattern>VELERO</pattern><template>Genial, Buena Elección ¿En qué hotel te hospedarás?</template></category>
+<category><pattern>CARRO</pattern><template>Genial, Buena Elección ¿En qué hotel te hospedarás?</template></category>
+<category><pattern>COCHE</pattern><template>Genial, Buena Elección ¿En qué hotel te hospedarás?</template></category>
+    
+        
+<category><pattern>HOLIDAY INN</pattern><template>Muy bien, Excelente Hotel ¿Te gustaría ir a un Restaurante?</template></category>
+<category><pattern>HOLIDAY INN EXPRESS</pattern><template>Muy bien, Excelente Hotel ¿Te gustaría ir a un Restaurante?</template></category>
+
+        
+<category><pattern>SI</pattern><template>¿A cuál restaurante?</template></category>
+
+
+        
+<category><pattern>BUCANERO</pattern><template>Ahi se come rico mmm, ¿Que Actividades Recreativas deseas realizar?</template></category>
+<category><pattern>AL BUCANERO</pattern><template>Ahi se come rico mmm, ¿Que Actividades Recreativas deseas realizar?</template></category>
+<category><pattern>EN APPLEBEES</pattern><template>Ahi se come rico mmm, ¿Que Actividades Recreativas deseas realizar?</template></category>
+<category><pattern>APPLEBEES</pattern><template>Ahi se come rico mmm, ¿Que Actividades Recreativas deseas realizar?</template></category>
+
+<category><pattern>ACTIVIDAD ACUATICA</pattern><template>Gran actividad para este lugar, estamos checando su presupuesto, Gracias por la espera</template></category>
+<category><pattern>ACTIVIDAD CULTURAL</pattern><template>Gran actividad para este lugar, estamos checando su presupuesto, Gracias por la espera</template></category>
+<category><pattern>ACTIVIDAD DEPORTIVA</pattern><template>Gran actividad para este lugar, estamos checando su presupuesto, Gracias por la espera</template></category>
+
+
+
+
+
+
+
+</aiml>
+
+
+
+
+
+----------------------------------------------------------
+pinicial
+
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml>
+<!-- File: update.aiml -->
+<!-- Author: Dr. Richard S. Wallace -->
+<!-- Last modified: August 10, 2013 -->
+<!--  -->
+<!-- This AIML file is part of the ALICE2 0.0.5 chat bot knowledge base. -->
+<!--  -->
+<!-- The ALICE2 brain is Copyright &copy; 2013 by ALICE AI Foundation. -->
+<!--  -->
+<!-- The ALICE2 brain is released under the terms of the GNU Lesser General -->
+<!-- Public License, as published by the Free Software Foundation. -->
+<!--  -->
+<!-- This file is distributed WITHOUT ANY WARRANTY; without even the  -->
+<!-- implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.   -->
+<!--  -->
+<!-- For more information see http://www.alicebot.org -->
+<!--  -->
+
+<category><pattern>*</pattern>
+<template>Disculpe no lo entiendo, vuelva a preguntar.</template>
+</category>
+
+<category><pattern>BRAIN VERSION</pattern>
+<template><program/></template>
+</category>
+
+<category><pattern>PROGRAM VERSION</pattern>
+<template><program/></template>
+</category>
+
+<category><pattern>BRAIN BUILD</pattern>
+<template><program><info>build</info></program></template>
+</category>
+
+<category><pattern>AIML MATCH LIMIT *</pattern>
+<template>Match limit exceeded</template>
+</category>
+
+<category><pattern>AIML MATCH FAIL *</pattern>
+<template>Match failed</template>
+</category>
+
+</aiml>
